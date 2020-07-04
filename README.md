@@ -1,5 +1,5 @@
 # QRCode-Generator-Offline
-Generate qrcode online
+Generate qrcode offline
 
 ## Basic usage:
 - Input the text
